@@ -8,7 +8,7 @@
 
 [網站網址(host by heroku)](https://final0817--onthesky123.repl.co/)
 
-![](https://github.com/onthesky123/pythondiary/raw/master/photo.png)
+![](https://github.com/onthesky123/pythondiary/raw/master/photo-1.png)
 
 ## 使用技術
 
