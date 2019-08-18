@@ -1,0 +1,24 @@
+.navbar-inverse{
+  background-color:rgba(45, 131, 64, 0.767);
+}
+
+.navbar-inverse .navbar-nav>.active>a{
+  background-color:darkslategray;
+}
+
+.navbar-inverse .navbar-nav>li>a{
+  color:white;
+  background-color:darkslategray;
+}
+
+.navbar-inverse .navbar-brand{
+  color:white;
+}
+
+.navbar-inverse .navbar-nav>.active>a:hover{
+  background-color:darkorange;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover{
+  background-color:darkorange;
+}
